@@ -7,23 +7,23 @@
 
 # Skills
 
-#### <img src = "Image_Source/언리얼 엔진 이미지.png" width="30" height="30" align="center"> 언리얼 엔진(Unreal Engine)
+#### <img src="Image_Source/언리얼엔진 수정 이미지.png" width="20" height="20"> 언리얼 엔진(Unreal Engine)
 
 - 코드와 블루 프린트를 통한 개발이 모두 가능합니다.
 - 애니메이션 및 간단한 스켈레톤 수정이 가능합니다.
 - UI 제작이 가능합니다.
 - RPC를 이용한 멀티 플레이어 게임 제작이 가능합니다.
 
-#### <img src = "Image_Source/유니티 이미지.png" width="50" height="50">유니티(Unity)
+#### <img src="Image_Source/유니티수정 이미지.png" width="20" height="20">유니티(Unity)
 
 - 간단한 게임 제작이 가능합니다.
 
 
-#### <img src="Image_Source/블랜더 이미지.png" width="50" height="50">블랜더(Blender)
+#### <img src="Image_Source/블랜더 수정이미지.png" width="20" height="20">블랜더(Blender)
 
 - 간단한 모델 수정 및 제작이 가능합니다.
 
-#### 그 외
+#### <img src="Image_Source/문서 이미지.png" width="20" height="20">그 외
 
 - 정보처리기사 자격증 보유
 <br />
@@ -33,7 +33,7 @@
 
 # Projects
 
-#### 스켈레톤 서바이벌
+#### <img src="Image_Source/해골 이미지.jpeg" widgth="20" height="20">스켈레톤 서바이벌
 
 >- 프로젝트명    : 스켈레톤 서바이벌
 >- 개발 기간     : 2025/01 ~ 2025/02
